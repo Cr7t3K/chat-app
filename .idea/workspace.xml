@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86ba342e-8b5b-4abc-8b71-f137df54981c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/rcc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,9 @@
       <workItem from="1601488652246" duration="615000" />
       <workItem from="1601491024410" duration="952000" />
       <workItem from="1601572587628" duration="10000" />
-      <workItem from="1601574062728" duration="797000" />
+      <workItem from="1601574062728" duration="1367000" />
+      <workItem from="1601919412155" duration="64000" />
+      <workItem from="1602003335899" duration="531000" />
     </task>
     <servers />
   </component>
@@ -64,10 +64,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2407" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1601574307908">
+    <state x="2407" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1601919472591">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2407" y="27" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/62.27.1858.1053@1920.0.1920.1080" timestamp="1601574307908" />
+    <state x="2407" y="27" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/62.27.1858.1053@1920.0.1920.1080" timestamp="1601919472591" />
     <state x="2218" y="27" width="1405" height="1023" key="dock-window-1" timestamp="1601489826297">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
